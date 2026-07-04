@@ -1,0 +1,11 @@
+Parameters,Values
+Carrier Frequency (GHz),28 GHz
+Antenna Elements,8
+Operating Band,Ka Band
+Steering Range,-60° to +60°
+Estimated DOA Accuracy,99.5%
+Maximum Beam Gain (dBi),18.04
+HPBW (Degrees),12.75
+Tracking Accuracy,99.2%
+Tracking Status,LOCKED
+Technology,6G Beam Steering Smart Antenna
